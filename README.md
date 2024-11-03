@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate web developer from the UK.</h3>
 
-- 🔭 I’m currently working on [GoChamp](https://www.gochamp.co.uk)
+- 🔭 I’m currently working full time as a Software Engineer
 
-- 🌱 I’m currently learning **jest and the react testing library.**
+- 🌱 I’m currently studying towards several Azure certifications
 
 - 👨‍💻 All of my projects are available at [https://james-bosley.github.io](https://james-bosley.github.io)
 
